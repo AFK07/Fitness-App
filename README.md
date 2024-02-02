@@ -1,5 +1,7 @@
 Fitness App README
+
 IDE Used
+
 Using Android Studio to develop a fitness application offers significant advantages. As the official Android development IDE, it provides a robust set of tools, libraries, and resources tailored for Android app development. With features like the Layout Editor, real-time testing on emulators and devices, and a rich plugin ecosystem, Android Studio streamlines the development process, ensures compatibility with various Android devices, and simplifies UI design. Additionally, access to official Android documentation and community support further accelerates development, making Android Studio the ideal choice for creating a feature-rich and reliable fitness application on the Android platform.
 
 
